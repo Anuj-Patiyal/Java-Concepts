@@ -6,7 +6,8 @@ class InstanceVariables {
      2. Belong to each instance of the class, meaning each object has its own copy.
      3. Also known as non-static fields or member variables.
  */
- int i; // declared an instance variable of int type and given name as i
+
+    int i; // declared an instance variable of int type and given name as i
 
     public static void main(String[] args){
         InstanceVariables var = new InstanceVariables();
